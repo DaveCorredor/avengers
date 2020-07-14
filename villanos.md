@@ -2,4 +2,3 @@
 
 * Dr Doom
 * Deathstrok
-* Capitán America
